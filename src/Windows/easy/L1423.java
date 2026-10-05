@@ -2,7 +2,7 @@ package Windows.easy;
 //可获得的最大点数
 public class L1423 {
     public int maxScore(int[] cardPoints, int k) {
-         int min=0;
+         int min=1;
          int total=0;
          int sum=0;
          int i=0;
