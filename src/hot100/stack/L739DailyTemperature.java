@@ -1,4 +1,4 @@
-package leetcode.stack;
+package hot100.stack;
 import java.util.Deque;
 import java.util.ArrayDeque;
 public class L739DailyTemperature {

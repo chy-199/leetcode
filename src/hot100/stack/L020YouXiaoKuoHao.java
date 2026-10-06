@@ -1,4 +1,4 @@
-package leetcode.stack;
+package hot100.stack;
 
 public class L020YouXiaoKuoHao {
     public boolean isValid(String s) {

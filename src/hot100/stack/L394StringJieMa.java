@@ -1,4 +1,4 @@
-package leetcode.stack;
+package hot100.stack;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

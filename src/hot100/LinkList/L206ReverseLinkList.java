@@ -1,4 +1,4 @@
-package leetcode.LinkList;
+package hot100.LinkList;
 public class L206ReverseLinkList {
     class ListNode{
         public int val;

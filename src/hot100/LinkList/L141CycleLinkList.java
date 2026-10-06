@@ -1,4 +1,4 @@
-package leetcode.LinkList;
+package hot100.LinkList;
 
 public class L141CycleLinkList {
     class ListNode{

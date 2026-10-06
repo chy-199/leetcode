@@ -1,4 +1,4 @@
-package leetcode.matrix;
+package hot100.matrix;
 
 public class L073SetZeroes {
     public void setZeroes(int[][] matrix){
