@@ -1,6 +1,7 @@
 package Pointer.easy;
 
 import java.lang.classfile.attribute.NestHostAttribute;
+import java.util.Random;
 
 //仅仅反转字母
 public class L917 {
