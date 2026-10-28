@@ -3,7 +3,7 @@ package Pointer.easy;
 import java.util.Arrays;
 
 //最接近的三数之和
-class L126 {
+class L16 {
     public int threeSumClosest(int[] nums, int target) {
         Arrays.sort(nums);
         int best = nums[0] + nums[1] + nums[2];
