@@ -42,10 +42,4 @@ public class L3940 {
         return result;
     }
 }
-//for (fast = 0; fast < n; fast++) {
-//int start = fast;
-//    while (fast + 1 < n && nums[fast] == nums[fast + 1]) fast++;
-//int c = Math.min(fast - start + 1, k);   // 留几个
-//int from = fast - c + 1;                 // 从这组的倒数第 c 个开始
-//    while (from <= fast) { nums[slow++] = nums[from++]; ans++; }
-//        }
+
