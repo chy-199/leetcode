@@ -1,6 +1,6 @@
 package Pointer.easy;
 //移动片段得到字符串
-public class L2237 {
+public class L2337 {
     public boolean canChange(String start, String target) {
         int s=0;
         int t=0;
