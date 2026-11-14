@@ -1,3 +1,5 @@
+package Windows.easy;
+
 public class L3467 {
     //将数组按照奇偶性转化
     public int[] transformArray(int[] nums) {
